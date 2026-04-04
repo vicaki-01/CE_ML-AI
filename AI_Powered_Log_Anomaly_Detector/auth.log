@@ -1,0 +1,9 @@
+Apr  4 08:12:01 server sshd[1221]: Accepted password for alice from 192.168.1.10 port 52341 ssh2
+Apr  4 08:13:45 server sshd[1222]: Failed password for root from 45.33.32.156 port 44012 ssh2
+Apr  4 08:13:46 server sshd[1222]: Failed password for root from 45.33.32.156 port 44013 ssh2
+Apr  4 08:13:47 server sshd[1222]: Failed password for root from 45.33.32.156 port 44014 ssh2
+Apr  4 08:13:48 server sshd[1222]: Failed password for root from 45.33.32.156 port 44015 ssh2
+Apr  4 03:02:11 server sshd[1300]: Invalid user admin from 198.51.100.77 port 39201 ssh2
+Apr  4 03:02:12 server sshd[1300]: Invalid user admin from 198.51.100.77 port 39202 ssh2
+Apr  4 09:00:00 server sshd[1400]: Accepted publickey for bob from 10.0.0.5 port 61000 ssh2
+Apr  4 09:01:00 server sudo[1401]: bob : TTY=pts/0 ; PWD=/home/bob ; USER=root ; COMMAND=/bin/ls
